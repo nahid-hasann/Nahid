@@ -1,0 +1,247 @@
+@media screen and (max-width:1200px) { 
+
+.hero-content{
+    max-width: 800px;
+    margin-bottom: 150px;
+}
+.hero-content h2{
+    font-size: 30px;
+}
+.hero-content p{
+    font-size: 12px;
+}
+
+.just-content{
+    padding: 30px 100px;
+}
+
+.why-developer{
+    max-width: 800px;
+}
+
+.youtube{
+    max-width: 700px;
+}
+
+.card-section{
+    max-width: 800px;
+    gap: 50px;
+
+}
+
+.card img{
+ margin-left: 25px;
+}
+
+
+
+
+
+
+ }
+
+
+@media screen and (max-width:1024px) { 
+
+
+
+.hero-content{
+    max-width: 500px;
+    margin-bottom: 150px;
+}
+.hero-content h2{
+    font-size: 17px;
+}
+.hero-content p{
+    font-size: 10px;
+    padding: 0px 0px;
+}
+
+.content h2{
+    font-size: 27px;
+}
+
+.content p{
+    font-size: 13px;
+}
+
+.why-developer{
+    max-width: 500px;
+}
+
+.developer-content p{
+    font-size: 13px;
+}
+
+.developer-content{
+    font-size: 20px;
+}
+
+.developer-content{
+    padding: 0px 15px;
+}
+
+.youtube{
+    max-width: 450px;
+    height: 300px;
+    padding: 20px;
+}
+
+.youtube iframe{
+    width: 100%;
+    height: 300px;
+}
+
+.card-section{
+    max-width: 500px;
+    gap: 25px;
+
+}
+.card img{
+ margin-left: 53px;
+ max-width: 40px;
+}
+
+.card h5{
+  text-align: center;
+  margin-left: 0px;
+}
+
+.card a{
+   margin-left: 30px;
+}
+
+.footer {
+    padding: 25px 40px;
+   
+}
+
+.footer-img {
+    gap: 15px;
+}
+
+.footer-img img{
+    width: 20px;
+    
+}
+
+.fotter-content p{
+    font-size: 12px;
+}
+
+
+ }
+
+
+
+
+
+@media screen and (max-width:640px) { 
+
+
+.hero-content{
+    padding: 10px 5px 10px 5px;
+    max-width: 400px;
+}
+
+.btn-resume {
+    font-size: 12px;
+    padding: 6px 8px;
+}
+
+.container h1{
+    font-size: 20px;
+}
+
+.just-content{
+    padding: 30px 30px;
+}
+
+.content h2{
+    font-size: 23px;
+}
+
+.content p{
+    font-size: 10px;
+    margin-top: 17px;
+    line-height: 20px;
+}
+
+.why-developer{
+    flex-direction: column-reverse;
+    max-width: 400px;
+    padding: 20px 5px 20px 5px;
+}
+
+.developer-content{
+    text-align: center;
+}
+
+.developer-content P{
+    font-size: 10px;
+}
+
+.developer-content h1{
+    font-size: 16px;
+}
+
+.youtube{
+    max-width: 300px;
+    height: 200px;
+    padding: 10px;
+}
+
+.youtube iframe{
+    width: 100%;
+    height: 200px;
+}
+
+.card-section{
+    flex-wrap: wrap;
+    max-width: 300px;
+    gap: 50px;
+
+}
+
+.card img{
+ margin-left: 130px;
+ max-width: 40px;
+}
+
+
+.card a{
+   margin-left: 105px;
+}
+
+.footer{
+    flex-direction: column-reverse;
+}
+
+.footer-img {
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.fotter-content{
+    text-align: center;
+    
+}
+
+
+.fotter-content P{
+    font-size: 16px;
+}
+
+
+.footer-img img{
+    width: 30px;
+}
+
+
+
+
+
+
+
+ }
